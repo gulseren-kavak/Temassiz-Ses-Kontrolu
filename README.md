@@ -1,4 +1,4 @@
-# Yapay Zeka Tabanlı Temassız Ses Yönetim Sistemi 🖐️🔊
+# Yapay Zeka Tabanlı Temassız Ses Yönetim Sistemi 
 
 Bu proje, insan-bilgisayar etkileşimini optimize etmek amacıyla geliştirilmiş, gerçek zamanlı bir bilgisayarlı görü uygulamasıdır. Kullanıcıların kameraya gösterdiği el hareketleriyle bilgisayarın ses seviyesini temassız yönetmesini sağlar.
 
